@@ -1,5 +1,4 @@
-# python-api-challenge-6
-
+# Python APIs
 
 ## Requirements for "Part 1: WeatherPy"
 
